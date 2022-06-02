@@ -1,0 +1,20 @@
+1|Terra|1|Don’t be afraid! That’s not an earthquake, just a dignified Terra Dragon out for a walk. Terra Dragons are known for their love of dirt and extremely humble and honest nature.|1
+2|Flame|1|If you can’t take the heat, stay away from the Flame Dragon! This temperamental creature is easily set off but calms down just as fast. And he always feels deep remorse for the things he burned.|2
+3|Volcano|1|This is the most explosive cousin of the Alpine Dragon. Always happy and cheerful, but watch out, he’s hot!|2,1
+4|Flaming Rock|1|What happens when you set earth on fire? This dragon is one of the most energetic ones around. Flaming Rock especially loves rock music and Dragon Chili snacks.|1,2
+5|Sea|1|If you’re into watersports, the Sea Dragon will be your new best friend! Sea Dragons have often been mistaken for seals or dolphins.|3
+6|Mud|1|They’re sometimes mistakenly described as chubby or lazy, but we happen to know that Mud Dragons are on a strict organic mud diet and only enjoy an occasional fly when it happens tol and directly in their mouths.|1,3
+7|Waterfall|1|This dragon is an absolute wonder! Where does the water come from and where is it going? Who knows? It’s still mesmerizing to watch.|1,3
+8|Blizzard|1|Weirdly enough, this dragon made of snow and ice seems to like hot and wet environments! Seeing this rare dragon flap around in a pile of lava is definitely worth the effort!|3,2
+9|Cloud|1|Many people don’t even realize they’ve seen this dragon before. Why, you ask? Because she blends so perfectly into the sky! If you sometimes feel like the rain clouds are following you, this is probably the reason!|2,3
+10|Nature|1|The Nature Dragon loves humans, animals, and all living things – some of them for gastronomic purposes. Even though she hasn’t eaten a whole human, a finger or two have been lost...|4
+11|Cactus|1|The Cactus Dragon loves to cuddle! What a shame that she’s covered in thorns. If you still find her charming despite the risk of getting pricked, put your gloves on and give her a hug!|1,4
+12|Tropical|1|The Tropical Dragon likes to dance all night, do acrobatics, and enjoy life in general. His happy-go-lucky attitude is very catchy, so in his company it’s impossible not to smile!|1,4
+13|Butterfly|1|Release this magical dragon onto your island and enjoy her mesmerizing beauty! You will never be able to catch her, but given her fiery temper, maybe this dragon is best appreciated from afar.|4,2
+14|Spicy|1|Spice up your island kingdom with this temperamental fellow. The Spicy Dragon is known for his excessive use of colorful language and passion for Mexican food.|2,4
+15|Firebird|1|Like a phoenix – the symbol of rebirth – this dragon is said to be immortal. His fiery fethers and regal flight are an impressive sight. It is said that this bird’s cry is that of a beautiful song.|2,4
+16|Coral|1|The Coral Dragon reflects that which is most beautiful underwater. The colorful gardens of the abyss are more magnificent than you could ever imagine. This dragon is a treasure!|4,3
+17|Nenufar|1|Fantastically beautiful, this dragon always draws crowds wherever she goes. Have you seen flowers floating on a pond? Maybe one wasn’t a flower after all...|3,4
+18|Electric|1|Legend has itt hat this dragon was born from a great storm in the Dark Ages, when an ordinary dragon got hit by lightning. Since that day, you can see other dragons flying the skies looking for a shock.|5
+19|Chameleon|1|A master of camouflage – the Chameleon Dragon can change color, so don’t be alarmed if she seems to have disappeared, just wait a sec and she’ll appear again! Fun fact: This dragon sees everything.|1,5
+20|Star|2|Who doesn’t like looking at stars on a clear night? This dragon is made of stars, and during the night you can see her shine. The Star Dragon is one of the calmest and happiest dragons, a friend to all.|1,5
